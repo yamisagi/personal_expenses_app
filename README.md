@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src=[product-screenshot] width="150" height="250">
+<img src="https://github.com/yamisagi/personal_expenses_app/blob/main/assets/product.gif" width="150" height="250">
 
 
 In this project, I am trying to create expenses app that has the following features of basic Dart language:
