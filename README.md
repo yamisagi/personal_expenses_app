@@ -142,4 +142,4 @@ Project Link: [Flutter Quiz App](https://github.com/yamisagi/flutter_quiz_app)
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: assets/product.gif# personal_expenses
+[product-screenshot]: assets/product.gif
